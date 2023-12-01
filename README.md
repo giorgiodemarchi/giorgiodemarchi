@@ -8,4 +8,4 @@ About me:
 Interests:
 - AI and Machine Learning
 - Networks optimization
-- Cryptocurrencies and decentralized systems
+- Decentralized systems
