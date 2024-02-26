@@ -6,6 +6,6 @@ About me:
 - Background in Industrial Engineering, having studied at Polytechnic of Milan and Delft University of Technology.
 
 Interests:
-- AI and Machine Learning
+- Multimodal AI and Machine Learning
 - Networks optimization
-- Decentralized systems
+- Reinforcement Learning
