@@ -5,7 +5,4 @@ About me:
 - Involved in research work at the MIT Operations Research Center, working to apply computer vision tools to the industry of EV charging stations installations.
 - Background in Industrial Engineering, having studied at Polytechnic of Milan and Delft University of Technology.
 
-Interests:
-- Multimodal AI and Machine Learning
-- Networks optimization
-- Reinforcement Learning
+Interests include multimodal ML, Vision, Network optimization
