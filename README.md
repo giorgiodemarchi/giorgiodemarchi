@@ -11,11 +11,11 @@ Interests include multimodal ML, Vision, Network optimization
 
 Relevant Projects:
 
-| Name | Topic  | Report | Code |
-|:--------------|:---------------:|:---------------:|--------------:|
-| LLM-based pre-processing framework for tabular ML | Machine Learning | - | - |
-| Optimization-aware active learning | Optimization | - | - |
-| Video-to-audio AI | Computer Vision | - | - |
-| Optimization of urban multi-modal hubs | Optimization | -  | - |
-| Instructing agents with LLM | Reinforcement Learning | - | - |
-| EV charging feasibility computer vision framework | Computer Vision | -  | - | 
+| Name | Topic  | Methods |Report | Code |
+|:--------------|:---------------:|:---------------:|:---------------:|--------------:|
+| LLM-based pre-processing framework for tabular ML | Machine Learning | - |- | - |
+| Optimization-aware active learning | Optimization | - |- | - |
+| Video-to-audio AI | Computer Vision | - |- | - |
+| Optimization of urban multi-modal hubs | Optimization | - |-  | - |
+| Instructing agents with LLM | Reinforcement Learning | - | - |- |
+| EV charging feasibility computer vision framework | Computer Vision | - |-  | - | 
