@@ -12,7 +12,7 @@ Interests include multimodal ML, Vision, Network optimization
 Relevant Projects:
 
 | Name | Topic  | Methods |Report | Code |
-|:--------------|:---------------:|:---------------:|:---------------:|--------------:|
+|:--------------|:---------------:|:---------------:|:---------------:|:--------------:|
 | EV charging feasibility computer vision framework | Computer Vision | CNN <br> ViT <br> Space-time attention | soon | Core code private <br> [Pipeline + Labelling UI](https://github.com/giorgiodemarchi/StreamlitAppDetroitProject) | 
 | Video-to-audio AI | Computer Vision | Embeddings <br> Multimodal models <br> Audio Generation |- | [Code](https://github.com/giorgiodemarchi/Visually-Indicated-Sounds) <br> [Dataset Pipeline](https://github.com/giorgiodemarchi/audioset-processing-AV) <br>[ImageBind Fork](https://github.com/giorgiodemarchi/ImageBind) <br> [AudioCraft fork](https://github.com/giorgiodemarchi/AudioCraft_VideoToAudio)|
 | LLM-based pre-processing framework for tabular ML | Machine Learning | Embeddings <br> Fine-tuning  | [Report](https://github.com/giorgiodemarchi/TabText-Experiments/blob/main/Project%20Report.pdf) | [Code](https://github.com/giorgiodemarchi/TabText-Experiments) |
