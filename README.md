@@ -19,3 +19,4 @@ Relevant Projects:
 | Optimization of urban multi-modal hubs | Optimization | - |-  | - |
 | Instructing agents with LLM | Reinforcement Learning | - | - |- |
 | EV charging feasibility computer vision framework | Computer Vision | - |-  | - | 
+| LLM router (AGI House Hackathon) | LLM | - |-  | - | 
