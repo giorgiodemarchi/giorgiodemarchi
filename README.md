@@ -13,10 +13,10 @@ Relevant Projects:
 
 | Name | Topic  | Methods |Report | Code |
 |:--------------|:---------------:|:---------------:|:---------------:|--------------:|
+| EV charging feasibility computer vision framework | Computer Vision | CNN <br> ViT <br> Space-time attention | soon | Core code private <br> [Pipeline + Labelling UI](https://github.com/giorgiodemarchi/StreamlitAppDetroitProject) | 
+| Video-to-audio AI | Computer Vision | Embeddings <br> Multimodal models <br> Audio Generation |- | [Code](https://github.com/giorgiodemarchi/Visually-Indicated-Sounds) <br> [Dataset Pipeline](https://github.com/giorgiodemarchi/audioset-processing-AV) <br>[ImageBind Fork](https://github.com/giorgiodemarchi/ImageBind) <br> [AudioCraft fork](https://github.com/giorgiodemarchi/AudioCraft_VideoToAudio)|
 | LLM-based pre-processing framework for tabular ML | Machine Learning | Embeddings <br> Fine-tuning  | [Report](https://github.com/giorgiodemarchi/TabText-Experiments/blob/main/Project%20Report.pdf) | [Code](https://github.com/giorgiodemarchi/TabText-Experiments) |
 | Optimization-aware active learning | Optimization | Duality <br> Log. Regression | [Report](https://github.com/giorgiodemarchi/Duality-Based-Active-Learning/blob/main/Project%20Report.pdf) | [Code](https://github.com/giorgiodemarchi/Duality-Based-Active-Learning) |
-| Video-to-audio AI | Computer Vision | Embeddings <br> Multimodal models <br> Audio Generation |- | [Code](https://github.com/giorgiodemarchi/Visually-Indicated-Sounds) <br> [Dataset Pipeline](https://github.com/giorgiodemarchi/audioset-processing-AV) <br>[ImageBind Fork](https://github.com/giorgiodemarchi/ImageBind) <br> [AudioCraft fork](https://github.com/giorgiodemarchi/AudioCraft_VideoToAudio)|
 | Optimization of urban multi-modal hubs | Optimization | Multi-objective opt. <br> Traffic modeling |-  | [Streamlit UI](https://github.com/giorgiodemarchi/ALab-Leuven-Streamlit-App) |
 | Instructing agents with LLM | Reinforcement Learning | PPO <br> Reward Design | - |- |
-| EV charging feasibility computer vision framework | Computer Vision | CNN <br> ViT <br> Space-time attention | soon | Core code private <br> [Pipeline + Labelling UI](https://github.com/giorgiodemarchi/StreamlitAppDetroitProject) | 
 | LLM router (AGI House Hackathon) | LLM | Prompt Optimizer Moodel <br> Embeddings | [Demo](https://www.maxcompute.co/playground)  | [LLMLingua fork](https://github.com/giorgiodemarchi/LLMLingua) | 
