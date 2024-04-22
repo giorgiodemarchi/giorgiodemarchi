@@ -6,3 +6,16 @@ About me:
 - Background in Industrial Engineering, having studied at Polytechnic of Milan and Delft University of Technology.
 
 Interests include multimodal ML, Vision, Network optimization
+
+---
+
+Relevant Projects:
+
+| Name | Topic  | Report | Code |
+|:--------------|:---------------:|:---------------:|--------------:|
+| LLM-based pre-processing framework for tabular ML | Machine Learning | - | - |
+| Optimization-aware active learning | Optimization | - | - |
+| Video-to-audio AI | Computer Vision | - | - |
+| Optimization of urban multi-modal hubs | ALab | -  | - |
+| Instructing agents with LLM | Reinforcement Learning | - | - |
+| EV charging feasibility computer vision framework | Computer Vision | -  | - | 
