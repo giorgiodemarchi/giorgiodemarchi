@@ -18,5 +18,5 @@ Relevant Projects:
 | Video-to-audio AI | Computer Vision | - |- | [Code](https://github.com/giorgiodemarchi/Visually-Indicated-Sounds) <br> [Dataset Pipeline](https://github.com/giorgiodemarchi/audioset-processing-AV) <br>[ImageBind Fork](https://github.com/giorgiodemarchi/ImageBind) |
 | Optimization of urban multi-modal hubs | Optimization | - |-  | [Streamlit UI](https://github.com/giorgiodemarchi/ALab-Leuven-Streamlit-App) |
 | Instructing agents with LLM | Reinforcement Learning | - | - |- |
-| EV charging feasibility computer vision framework | Computer Vision | - |-  | - | 
+| EV charging feasibility computer vision framework | Computer Vision | - | soon | Core code private <br> [Pipeline + Labelling UI](https://github.com/giorgiodemarchi/StreamlitAppDetroitProject) | 
 | LLM router (AGI House Hackathon) | LLM | - | [Demo](https://www.maxcompute.co/playground)  | [LLMLingua fork](https://github.com/giorgiodemarchi/LLMLingua) | 
