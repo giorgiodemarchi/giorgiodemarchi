@@ -15,8 +15,8 @@ Relevant Projects:
 |:--------------|:---------------:|:---------------:|:---------------:|--------------:|
 | LLM-based pre-processing framework for tabular ML | Machine Learning | - | [Report](https://github.com/giorgiodemarchi/TabText-Experiments/blob/main/Project%20Report.pdf) | [Code](https://github.com/giorgiodemarchi/TabText-Experiments) |
 | Optimization-aware active learning | Optimization | - | [Report](https://github.com/giorgiodemarchi/Duality-Based-Active-Learning/blob/main/Project%20Report.pdf) | [Code](https://github.com/giorgiodemarchi/Duality-Based-Active-Learning) |
-| Video-to-audio AI | Computer Vision | - |- | [Dataset Pipeline](https://github.com/giorgiodemarchi/audioset-processing-AV) <br>[ImageBind Fork](https://github.com/giorgiodemarchi/ImageBind) |
+| Video-to-audio AI | Computer Vision | - |- | [Code](https://github.com/giorgiodemarchi/Visually-Indicated-Sounds) <br> [Dataset Pipeline](https://github.com/giorgiodemarchi/audioset-processing-AV) <br>[ImageBind Fork](https://github.com/giorgiodemarchi/ImageBind) |
 | Optimization of urban multi-modal hubs | Optimization | - |-  | [Streamlit UI](https://github.com/giorgiodemarchi/ALab-Leuven-Streamlit-App) |
 | Instructing agents with LLM | Reinforcement Learning | - | - |- |
 | EV charging feasibility computer vision framework | Computer Vision | - |-  | - | 
-| LLM router (AGI House Hackathon) | LLM | - |-  | - | 
+| LLM router (AGI House Hackathon) | LLM | - | [Demo](https://www.maxcompute.co/playground)  | [LLMLingua fork](https://github.com/giorgiodemarchi/LLMLingua) | 
