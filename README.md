@@ -13,7 +13,7 @@ Relevant Projects:
 
 | Name | Topic  | Methods |Report | Code |
 |:--------------|:---------------:|:---------------:|:---------------:|:--------------:|
-| EV charging feasibility computer vision framework | Computer Vision | CNN <br> ViT <br> Space-time attention | soon | Core code private <br> [Pipeline + Labelling UI](https://github.com/giorgiodemarchi/StreamlitAppDetroitProject) | 
+| EV charging feasibility computer vision framework | Computer Vision | CNN <br> ViT <br> Space-time attention | [MIMO Poster](https://drive.google.com/file/d/1mT5RCIgidtnxhuGHc2IHk7giLnZwymT2/view?usp=sharing) | Core code private <br> [Pipeline + Labelling UI](https://github.com/giorgiodemarchi/StreamlitAppDetroitProject) | 
 | Video-to-audio AI | Computer Vision | Embeddings <br> Vector Database <br> Multimodal models <br> Audio Generation |- | [Code](https://github.com/giorgiodemarchi/Visually-Indicated-Sounds) <br> [Dataset Pipeline](https://github.com/giorgiodemarchi/audioset-processing-AV) <br>[ImageBind Fork](https://github.com/giorgiodemarchi/ImageBind) <br> [AudioCraft fork](https://github.com/giorgiodemarchi/AudioCraft_VideoToAudio)|
 | LLM-based pre-processing framework for tabular ML | Machine Learning | Embeddings <br> Fine-tuning  | [Report](https://github.com/giorgiodemarchi/TabText-Experiments/blob/main/Project%20Report.pdf) | [Code](https://github.com/giorgiodemarchi/TabText-Experiments) |
 | Optimization-aware active learning | Optimization | Duality <br> Active learning <br> Tabular ML | [Report](https://github.com/giorgiodemarchi/Duality-Based-Active-Learning/blob/main/Project%20Report.pdf) | [Code](https://github.com/giorgiodemarchi/Duality-Based-Active-Learning) |
